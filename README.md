@@ -108,7 +108,7 @@ main/
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/multimodal-translator.git
+   git clone https://github.com/kanis777/multimodal-translator.git
    cd main/
 2. Install requirements:
 
