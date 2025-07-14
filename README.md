@@ -2,6 +2,22 @@
 
 A Flask-based web application that enhances accessibility by converting speech, text, and image inputs into Indian Sign Language (ISL) and Braille. The system supports live audio transcription, OCR from images, multilingual translation, grammar correction, and dynamic sign language GIF/video generation.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python">
+  <img src="https://img.shields.io/badge/Flask-2.3.3-green?logo=flask">
+  <img src="https://img.shields.io/badge/OpenAI%20Whisper-base-orange?logo=openai">
+  <img src="https://img.shields.io/badge/Google%20Speech%20API-v1-lightgrey?logo=google">
+  <img src="https://img.shields.io/badge/EasyOCR-1.6.2-yellow?logo=pypi">
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-ffcd00?logo=huggingface">
+  <img src="https://img.shields.io/badge/T5-grammar--correction-9cf?logo=huggingface">
+  <img src="https://img.shields.io/badge/MarianMT-Translation-orange?logo=huggingface">
+  <img src="https://img.shields.io/badge/OpenCV-4.5.5-red?logo=opencv">
+  <img src="https://img.shields.io/badge/MoviePy-1.0.3-brightgreen?logo=python">
+  <img src="https://img.shields.io/badge/Pillow-PIL-yellowgreen?logo=python">
+  <img src="https://img.shields.io/badge/FFmpeg-audio%20conversion-blueviolet?logo=ffmpeg">
+  <img src="https://img.shields.io/badge/PyDub-Audio-yellow?logo=python">
+</p>
+
 ---
 
 ## 🔧 Features
