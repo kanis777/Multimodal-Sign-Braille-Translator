@@ -124,7 +124,7 @@ AudioSegment.converter = r"K:\ffmpeg\bin\ffmpeg.exe"
 4. Run the app:
 
 ```
-python app.py
+python main.py
 Access in browser: http://localhost:5000/
 
 ```
