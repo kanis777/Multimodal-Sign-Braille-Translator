@@ -94,18 +94,18 @@ main/
    ```bash
    git clone https://github.com/your-username/multimodal-translator.git
    cd main/
-Install requirements:
+2. Install requirements:
 
 ```
 pip install -r requirements.txt
 Set ffmpeg path:
 ```
-Update the line:
+3. Update the line:
 
 ```
 AudioSegment.converter = r"K:\ffmpeg\bin\ffmpeg.exe"
 ```
-Run the app:
+4. Run the app:
 
 ```
 python app.py
